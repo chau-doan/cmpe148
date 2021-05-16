@@ -1,0 +1,86 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: DC=org, DC=teamtqcd, O=Team TQCD Inc, OU=Team TQCD Root CA, CN=Team TQCD Root CA
+        Validity
+            Not Before: May 16 09:06:39 2021 GMT
+            Not After : May 16 09:06:39 2023 GMT
+        Subject: DC=org, DC=teamtqcd, O=Team TQCD Inc, CN=chau
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:dd:57:b7:29:c8:41:51:69:a7:1e:8e:d9:b0:ca:
+                    84:5e:01:d7:84:6c:8a:23:52:f7:f1:56:8b:21:49:
+                    50:9e:c4:c1:d3:36:63:4e:b2:79:3d:c9:db:36:e7:
+                    b6:73:81:ba:9b:1a:ae:1e:c2:ba:d7:bd:51:44:3b:
+                    cd:3f:8e:21:b8:b0:0e:86:0a:da:06:de:23:6f:bc:
+                    48:a2:aa:48:75:ff:c0:f5:93:33:63:ce:24:0f:4c:
+                    42:42:c1:77:6b:ca:18:4d:47:ac:d7:f5:2e:5f:0b:
+                    6d:1d:ce:1a:16:5e:61:f8:f7:42:d5:30:85:94:73:
+                    2f:0b:4d:c1:48:a4:c6:d7:72:04:56:0b:b5:5d:d4:
+                    c5:8e:fc:39:ad:7e:69:e1:9c:16:66:b1:69:58:08:
+                    f5:14:4f:27:35:1b:42:2a:20:10:5d:33:03:6d:cd:
+                    eb:5e:ad:f2:33:74:dd:59:f2:c3:c2:7f:19:62:47:
+                    b8:05:3d:df:a0:a0:ef:81:d2:a6:85:5e:5a:23:4d:
+                    85:bd:1c:5e:7b:08:74:84:a9:6e:01:fc:08:49:d2:
+                    4e:22:49:78:b4:10:55:13:b9:db:40:50:ec:03:f2:
+                    12:49:b3:bf:99:ca:84:32:fc:97:ed:d0:fa:69:d2:
+                    44:dc:2c:b8:6b:c7:77:f6:e1:22:08:d4:cb:59:b6:
+                    1e:35
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                E-mail Protection, TLS Web Client Authentication
+            X509v3 Subject Key Identifier: 
+                FF:FB:E1:DE:E8:88:F4:C6:0C:3D:AD:3C:64:97:BC:EA:7A:A8:03:97
+            X509v3 Authority Key Identifier: 
+                keyid:8B:01:B7:D1:99:CB:B9:79:48:4C:2D:B0:7D:1B:B0:B0:D0:CA:75:76
+
+            X509v3 Subject Alternative Name: 
+                email:chau@teamtqcd.org
+    Signature Algorithm: sha1WithRSAEncryption
+         0e:3d:9c:09:66:0f:b3:57:54:c3:1d:12:6f:90:5c:58:bb:bb:
+         de:ca:81:66:ad:70:50:34:19:f0:95:2b:66:96:d0:a3:45:30:
+         b1:68:1d:d5:70:da:ea:2b:9d:6e:6e:eb:12:98:aa:94:8e:42:
+         3b:ca:d5:b3:7d:0c:f6:90:e0:d9:08:2b:2d:1c:e8:6c:12:cd:
+         ac:55:a5:7f:d8:cd:ea:7e:07:16:8d:df:1a:cc:d9:36:02:d9:
+         aa:b3:62:7a:94:e1:05:f1:6c:73:9c:37:d9:22:bf:be:88:8b:
+         c6:41:16:74:37:d9:5a:da:5d:d9:da:7c:ad:4f:9f:84:b3:fd:
+         b8:0c:dc:0e:b0:99:3c:fe:71:f6:62:83:f6:b9:ec:71:22:03:
+         19:5e:4c:5d:40:da:3c:cd:68:67:e8:f9:a7:d2:57:f4:3c:e8:
+         ff:6b:f6:14:df:53:c2:60:ed:46:53:c2:c0:e7:ab:7f:ba:b2:
+         1d:fc:61:82:37:40:5b:fe:77:cb:81:d4:22:40:95:7e:93:5b:
+         8d:f6:a9:13:26:06:5c:a7:d4:1f:86:ca:b6:bd:39:2c:6e:cf:
+         56:10:50:3a:76:9b:79:50:8a:d0:c7:61:0b:e7:78:f9:2e:6a:
+         75:e8:86:39:fd:01:53:33:9e:ab:94:ba:4f:7a:02:8d:b0:e2:
+         7c:83:f3:92
+-----BEGIN CERTIFICATE-----
+MIID7DCCAtSgAwIBAgIBATANBgkqhkiG9w0BAQUFADB/MRMwEQYKCZImiZPyLGQB
+GRYDb3JnMRgwFgYKCZImiZPyLGQBGRYIdGVhbXRxY2QxFjAUBgNVBAoMDVRlYW0g
+VFFDRCBJbmMxGjAYBgNVBAsMEVRlYW0gVFFDRCBSb290IENBMRowGAYDVQQDDBFU
+ZWFtIFRRQ0QgUm9vdCBDQTAeFw0yMTA1MTYwOTA2MzlaFw0yMzA1MTYwOTA2Mzla
+MFYxEzARBgoJkiaJk/IsZAEZFgNvcmcxGDAWBgoJkiaJk/IsZAEZFgh0ZWFtdHFj
+ZDEWMBQGA1UECgwNVGVhbSBUUUNEIEluYzENMAsGA1UEAwwEY2hhdTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAN1XtynIQVFppx6O2bDKhF4B14RsiiNS
+9/FWiyFJUJ7EwdM2Y06yeT3J2zbntnOBupsarh7Cute9UUQ7zT+OIbiwDoYK2gbe
+I2+8SKKqSHX/wPWTM2POJA9MQkLBd2vKGE1HrNf1Ll8LbR3OGhZeYfj3QtUwhZRz
+LwtNwUikxtdyBFYLtV3UxY78Oa1+aeGcFmaxaVgI9RRPJzUbQiogEF0zA23N616t
+8jN03Vnyw8J/GWJHuAU936Cg74HSpoVeWiNNhb0cXnsIdISpbgH8CEnSTiJJeLQQ
+VRO520BQ7APyEkmzv5nKhDL8l+3Q+mnSRNwsuGvHd/bhIgjUy1m2HjUCAwEAAaOB
+mzCBmDAOBgNVHQ8BAf8EBAMCBaAwCQYDVR0TBAIwADAdBgNVHSUEFjAUBggrBgEF
+BQcDBAYIKwYBBQUHAwIwHQYDVR0OBBYEFP/74d7oiPTGDD2tPGSXvOp6qAOXMB8G
+A1UdIwQYMBaAFIsBt9GZy7l5SEwtsH0bsLDQynV2MBwGA1UdEQQVMBOBEWNoYXVA
+dGVhbXRxY2Qub3JnMA0GCSqGSIb3DQEBBQUAA4IBAQAOPZwJZg+zV1TDHRJvkFxY
+u7veyoFmrXBQNBnwlStmltCjRTCxaB3VcNrqK51ubusSmKqUjkI7ytWzfQz2kODZ
+CCstHOhsEs2sVaV/2M3qfgcWjd8azNk2Atmqs2J6lOEF8WxznDfZIr++iIvGQRZ0
+N9la2l3Z2nytT5+Es/24DNwOsJk8/nH2YoP2uexxIgMZXkxdQNo8zWhn6Pmn0lf0
+POj/a/YU31PCYO1GU8LA56t/urId/GGCN0Bb/nfLgdQiQJV+k1uN9qkTJgZcp9Qf
+hsq2vTksbs9WEFA6dpt5UIrQx2EL53j5Lmp16IY5/QFTM56rlLpPegKNsOJ8g/OS
+-----END CERTIFICATE-----
